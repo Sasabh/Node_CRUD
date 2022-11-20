@@ -5,7 +5,7 @@
     "main": "server.js",
     "scripts": {
         "start": "npm run format && nodemon server.js",
-        "format": "prettier --write \"./*.{js,jsx,json,css,ts}\""
+        "format": "prettier --write \"./**/*.{js,jsx,json,html,css,ts}\""
     },
     "repository": {
         "type": "git",
