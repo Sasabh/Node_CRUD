@@ -1,0 +1,29 @@
+{
+  "name": "node_crud",
+  "version": "1.0.0",
+  "description": "Simple Node+MongoDB CRUD App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sasabh/Node_CRUD.git"
+  },
+  "keywords": [
+    "Node",
+    "CRUD",
+    "mongoDB",
+    "Express"
+  ],
+  "author": "Sasabh Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sasabh/Node_CRUD/issues"
+  },
+  "homepage": "https://github.com/Sasabh/Node_CRUD#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2"
+  }
+}
